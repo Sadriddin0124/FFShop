@@ -1,0 +1,44 @@
+{
+    "navbar": {
+        "link1": "Home",
+        "link2": "About",
+        "link3": "Brands",
+        "link4": "Contacts"
+    },
+    "amfiora": {
+        "title1": "Shampoo Amfiora “Black cumin”",
+        "title2": "Face mask Amfiora “Black cumin”",
+        "title3": "Face scrub Amfiora “Black cumin”",
+        "title4": "Depilatory cream Amfiora “Black cumin”",
+        "title5": "Face cream Amfiora “Black cumin”",
+        "title6": "Hand cream Amfiora “Black cumin”",
+        "title7": "Foot cream Amfiora “Black cumin”",
+        "title8": "Hair balm Amfiora “Black cumin”",
+        "desc1": "Shampoo “Black cumin” not only delicately cleanses the hair and scalp, but also has active caring properties. Hair after shampooing becomes denser and more voluminous. Black cumin seed oil deeply nourishes and regenerates hair, leaving it with a rich shine. Suitable for all hair types.",
+        "desc2": "Caring Face Mask “Black cumin” intensively nourishes and restores damaged areas of the facial skin thanks to bioactive substances and amino acids, as well as vitamins A, B, D and E. The cream restores healthy appearance and elasticity to the skin.",
+        "desc3": "Facial scrub with black seed oil is a new and innovative peeling technology. The product has a deep healing property of cleansing, restoring, renewing and rejuvenating the skin of the face. The scrub perfectly removes unwanted age spots and other defects of the skin surface.",
+        "desc4": "Depilatory cream with black seed oil is designed to gently and effectively remove unwanted hair on the legs, arms, bikini area and armpits. Thanks to its bioactive ingredients, the cream gently moisturizes and protects the skin during and after the depilation process, makes the skin smooth and soft.",
+        "desc5": "The face cream effectively rejuvenates and regenerates the skin, stimulates cell regeneration. Delicate texture for the care of all skin types due to the natural bioactive components of black seed oil, the environment. Recommended for the whole family.",
+        "desc6": "Hand cream with black cumin oil, thanks to natural bioactive components and microelements, perfectly nourishes and restores the skin’s hydrobalance. It activates the processes of skin regeneration and protects against negative environmental factors.Recommended for the whole family.",
+        "desc7": "Foot cream with black seed oil has excellent antioxidant properties. Thanks to its active natural ingredients, it nourishes the skin and has a positive effect on the regenerative properties of cells. Recommended for the whole family.",
+        "desc8": "Unique hair balm “Black cumin” for intensive care of dull and damaged hair. Black cumin seed oil deeply nourishes the roots and improves the condition of weakened hair, restores its elasticity and shine, makes the strands thicker and more elastic."
+    },
+    "barg": {
+        "title1": "Idishlarni yuvish vositasi Barg (Limon)",
+        "desc1": "«BARG» idishlarni yuvish vositasining 1-2 tomchisidan ko‘p miqdorda yumshoq ko‘pik olish imkonini beradi. Mahsulot yog‘ni va har qanday kirni sovuq suvda ham mukammal darajada tozalaydi, shuningdek, suv bilan osongina yuviladi, idish-tovoq va qo‘l terisida dog‘ qoldirmaydi. Glitserin tufayli mahsulot qo‘llar terisini yumshatadi, qichitmaydi.",
+        "title2": "Idishlarni yuvish vositasi Barg (Olma)",
+        "desc2": "«BARG» idishlarni yuvish vositasining 1-2 tomchisidan ko‘p miqdorda yumshoq ko‘pik olish imkonini beradi. Mahsulot yog‘ni va har qanday kirni sovuq suvda ham mukammal darajada tozalaydi, shuningdek, suv bilan osongina yuviladi, idish-tovoq va qo‘l terisida dog‘ qoldirmaydi. Glitserin tufayli mahsulot qo‘llar terisini yumshatadi, qichitmaydi."
+    },
+    "efetta": {
+        "title1": "Yuz uchun losyon Effetta «Cucumber fresh»",
+        "desc1": "Bodring ekstraktli yuz losyoni yuz terisini muloyimlik bilan oqartiradi, tozalaydi, yumshatadi va tetiklantiradi. Bodring ekstrakti-ning faol moddalari terini yoshartiradi va teridagi teshikchalarni toraytirib, zarur namlik darajasini ta’minlaydi. Tarkibida C vitamini  bo’lgani uchun terini oqartiradi, pigment dog’lari paydo bo’lishining oldini oladi.",
+        "title2": "Shampon Effetta «Cucumber fresh»",
+        "desc2": "Bodring ekstraktli shampun yog’lanishga moyil sochlarni intensiv tozalaydi va namlaydi. Bodring ekstrakti C va B guruhi vitaminlariga boy, ular sochlarni mukammal oziqlantiradi, tiklaydi va uzoq vaqt musaffolik hissini beradi. Qo’llanilishi: shampunni nam sochlarga yengil uqalab surting, iliq suv bilan yuvib tashlang.",
+        "title3": "Yuz yuvish uchun ko’pik Effetta «Cucumber fresh»",
+        "desc3": "Yuzni tozalash uchun maxsus yaratilgan YUZ YUVISH UCHUN KO’PIK mahsuloti terini chuqur qatlamlaridagi kosmetikani muloyimlik bilan bartaraf qiladi. Bodring ekstraktining foydali tarkibiy qismlari oziqlantiruvchi, tetiklantiruvchi va namlantiruvchi vosita vazifasini bajaradi. Ko’pik terining elastikligini tiklaydi va tashqi salbiy ta’sirlardan himoya qiladi. Yoqimli hid, havodor tuzilishga ega.",
+        "title4": "Soch uchun balzam Effetta «Cucumber fresh»",
+        "desc4": "Barcha turdagi sochlar uchun mo’ljallangan bodring ekstraktli chayuvchi-balzami yog’lanishga moyil bo’lgan sochlarni intensiv parvarishlaydi. Balzam formulasi bodring ekstraktida mavjud bo’lgan C va B guruhi vitaminlari bilan boyitilgan. Balzam tufayli sochlaringizni tarash oson bo’ladi va ularning elastikligi oshadi. Balzamni qo’llaganingizdan keyin sochlar yanada zich va yorqin bo’ladi.",
+        "title5": "Yuz uchun maska Effetta «Cucumber fresh»",
+        "desc5": "Bodring ekstrakti bilan oqartiruvchi yuz niqobi teringizga muloyimlik bilan g’amxo’rlik qiladi, uni tozalaydi, yumshatadi va tetiklantiradi. Allantoin va aloe vera ekstrakti teri hujayralarini yangilaydi va uni tarang va elastik qiladi, tezkor lifting ta’sir ko’rsatadi, terini yoshartiradi va tetiklantiradi, sog’lom yuz rangini hadiya etadi."
+    }
+}
