@@ -6,6 +6,7 @@
         "link4": "Contacts"
     },
     "amfiora": {
+        "title": "Amfiora",
         "title1": "Shampoo Amfiora “Black cumin”",
         "title2": "Face mask Amfiora “Black cumin”",
         "title3": "Face scrub Amfiora “Black cumin”",
@@ -24,12 +25,14 @@
         "desc8": "Unique hair balm “Black cumin” for intensive care of dull and damaged hair. Black cumin seed oil deeply nourishes the roots and improves the condition of weakened hair, restores its elasticity and shine, makes the strands thicker and more elastic."
     },
     "barg": {
+        "title": "Barg - Idishlarni yuvish vositasi",
         "title1": "Idishlarni yuvish vositasi Barg (Limon)",
         "desc1": "«BARG» idishlarni yuvish vositasining 1-2 tomchisidan ko‘p miqdorda yumshoq ko‘pik olish imkonini beradi. Mahsulot yog‘ni va har qanday kirni sovuq suvda ham mukammal darajada tozalaydi, shuningdek, suv bilan osongina yuviladi, idish-tovoq va qo‘l terisida dog‘ qoldirmaydi. Glitserin tufayli mahsulot qo‘llar terisini yumshatadi, qichitmaydi.",
         "title2": "Idishlarni yuvish vositasi Barg (Olma)",
         "desc2": "«BARG» idishlarni yuvish vositasining 1-2 tomchisidan ko‘p miqdorda yumshoq ko‘pik olish imkonini beradi. Mahsulot yog‘ni va har qanday kirni sovuq suvda ham mukammal darajada tozalaydi, shuningdek, suv bilan osongina yuviladi, idish-tovoq va qo‘l terisida dog‘ qoldirmaydi. Glitserin tufayli mahsulot qo‘llar terisini yumshatadi, qichitmaydi."
     },
     "effetta": {
+        "title": "Effetta",
         "title1": "Yuz uchun losyon Effetta «Cucumber fresh»",
         "desc1": "Bodring ekstraktli yuz losyoni yuz terisini muloyimlik bilan oqartiradi, tozalaydi, yumshatadi va tetiklantiradi. Bodring ekstrakti-ning faol moddalari terini yoshartiradi va teridagi teshikchalarni toraytirib, zarur namlik darajasini ta’minlaydi. Tarkibida C vitamini  bo’lgani uchun terini oqartiradi, pigment dog’lari paydo bo’lishining oldini oladi.",
         "title2": "Shampon Effetta «Cucumber fresh»",
@@ -42,6 +45,7 @@
         "desc5": "Bodring ekstrakti bilan oqartiruvchi yuz niqobi teringizga muloyimlik bilan g’amxo’rlik qiladi, uni tozalaydi, yumshatadi va tetiklantiradi. Allantoin va aloe vera ekstrakti teri hujayralarini yangilaydi va uni tarang va elastik qiladi, tezkor lifting ta’sir ko’rsatadi, terini yoshartiradi va tetiklantiradi, sog’lom yuz rangini hadiya etadi."
     },
     "exxper": {
+        "title": "Exxper - maxsus erkaklar uchun",
         "title1": "Shampun Exxper",
         "desc1": "Éclair dan erkaklar uchun maxsus Exxper  shampuni – bu intensiv parvarish va sochlarni yog’ va kirlanishlardan muloyimlik bilan tozalaydi, qazg’oq hosil bo’lishiga qarshi kurashadi va muzlatish effektiga ega, shuningdek mentol tufayli uzoq vaqt musaffolik hissini uyg’unlashtiradi. Sochlarga yumshoqlik va tabiiy jilo baxsh etadi. Kundalik foydalanish uchun mos keladi.",
         "title2": "Dush uchun gel Exxper",
@@ -53,6 +57,25 @@
     },
     "brands": {
         "title": "Brendlar",
-        "desc": "Bu yerda 'Farhod va Faxriddinjon' dilerlik firmasining eclair kompaniyasining mahsulotlarining brendlarini ko'rishingiz mumkin."
+        "desc": "Bu yerda 'Farhod va Faxriddinjon' dilerlik firmasining ECLAIR kompaniyasining mahsulotlarining brendlarini ko'rishingiz mumkin.",
+        "title1": "Barg – Idishlarni yuvish vositasi",
+        "title2": "Effetta",
+        "title3": "Amfiora",
+        "title4": "Exxper – maxsus erkaklar uchun",
+        "title5": ""
+    },
+    "elett": {
+        "title1": "Mitsellyar shampun Elett",
+        "desc1": "Yangi ELETT mitsellyar shampuni ingichka sochlar uchun ehtiyotkorlik bilan tozalash va har tomonlama parvarish qilish maqsadida ishlab chiqilgan. Mahsulot ildizlardan boshlab samarali tozalaydi va sochlarning asosiy uzunligini oziqlantiradi, atrof muhitning salbiy ta’siridan himoya qiladi, gidrolipid muvozanatini saqlaydi va terini quritmaydi. Moringa urug’i ekstrakti sochlarni chuqur oziqlantiradi va xira rangli sochlarga boy jilo bag’ishlaydi. Mayin formula mahsulotni har kuni ishlatishga imkon beradi.",
+        "title2": "9.1-Kulrangli blond",
+        "desc2": "Elett rang beruvchi balzami bo‘yalgan va tabiiy sochlar uchun mo‘ljallangan. U sochlarga to‘yingan yorqin rang beradi va sarg‘ishlikni bartaraf qiladi. Mahsulotning faol komponentlari soch tuzilishiga zarar bermasdan samarali va yumshoq ta’sir ko‘rsatadi, ularning tabiiy namlik muvozanatini saqlaydi.",
+        "title3": "9.6-Marvarid",
+        "desc3": "Elett rang beruvchi balzami bo‘yalgan va tabiiy sochlar uchun mo‘ljallangan. U sochlarga to‘yingan yorqin rang beradi va sarg‘ishlikni bartaraf qiladi. Mahsulotning faol komponentlari soch tuzilishiga zarar bermasdan samarali va yumshoq ta’sir ko‘rsatadi, ularning tabiiy namlik muvozanatini saqlaydi.",
+        "title4": "9.16-Perlamutr",
+        "desc4": "Elett rang beruvchi balzami bo‘yalgan va tabiiy sochlar uchun mo‘ljallangan. U sochlarga to‘yingan yorqin rang beradi va sarg‘ishlikni bartaraf qiladi. Mahsulotning faol komponentlari soch tuzilishiga zarar bermasdan samarali va yumshoq ta’sir ko‘rsatadi, ularning tabiiy namlik muvozanatini saqlaydi.",
+        "title5": "4.56-Pishgan olcha",
+        "desc5": "Elett rang beruvchi balzami bo‘yalgan va tabiiy sochlar uchun mo‘ljallangan. U sochlarga to‘yingan yorqin rang beradi va sarg‘ishlikni bartaraf qiladi. Mahsulotning faol komponentlari soch tuzilishiga zarar bermasdan samarali va yumshoq ta’sir ko‘rsatadi, ularning tabiiy namlik muvozanatini saqlaydi.",
+        "title6": "4.65-Bordo",
+        "desc6": "Elett rang beruvchi balzami bo‘yalgan va tabiiy sochlar uchun mo‘ljallangan. U sochlarga to‘yingan yorqin rang beradi va sarg‘ishlikni bartaraf qiladi. Mahsulotning faol komponentlari soch tuzilishiga zarar bermasdan samarali va yumshoq ta’sir ko‘rsatadi, ularning tabiiy namlik muvozanatini saqlaydi."
     }
 }

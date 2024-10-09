@@ -24,7 +24,7 @@ const Navbar = () => {
     {img: RU, value: "ru"}
   ]
   return (
-    <nav className="w-[100%] px-[20px] py-[10px] bg-violet-700 flex justify-center items-center">
+    <nav className="w-[100%] px-[20px] py-[10px] bg-zinc-700 flex justify-center items-center">
       <div className="max-w-[1400px] w-[100%] flex justify-between items-center">
         <Link to={"/"} className=" text-[40px] text-white no-underline">
           F
@@ -32,7 +32,7 @@ const Navbar = () => {
         <ul className="flex items-center gap-[5px] mb-0 bg-white p-[2px] rounded-full">
           {links?.map((item, index) => {
             return (
-              <li key={index} className={`${location === item?.path ? "bg-violet-700 text-white" : " text-violet-700"} hover:text-white hover:bg-violet-700 ease-in-out duration-300 relative w-[100%] px-[30px] py-[10px] rounded-full`}>
+              <li key={index} className={`${location === item?.path ? "bg-orange-400 text-white" : " text-orange-400"} hover:text-white hover:bg-orange-400 ease-in-out duration-300 relative w-[100%] px-[30px] py-[10px] rounded-full`}>
                 <Link to={item?.path} className="no-underline font-[500]">{item?.name}</Link>
                 <span className="h-[2px] w-[0] group-hover:w-[100%] ease-in-out duration-200 bg-white block"></span>
               </li>
@@ -49,8 +49,8 @@ const Navbar = () => {
                 })
               }
             </div>
-            <button className="text-[24px] text-white"><SlBasket/></button>
-            <button className="text-[18px] text-white border px-[20px] py-[8px] rounded-md hover:bg-white hover:text-violet-700 ease-in-out duration-300">Log In</button>
+            <button className="text-[24px] text-orange-400"><SlBasket/></button>
+            <button className="text-[18px] text-white border border-orange-400 px-[20px] py-[8px] rounded-full hover:bg-orange-400 ease-in-out duration-300">Log In</button>
         </div>
       </div>
     </nav>
